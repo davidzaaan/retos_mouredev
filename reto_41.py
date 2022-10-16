@@ -29,7 +29,7 @@ def calc_ohm(v: int, r: int, i: int) -> str:
         i: Current
 
         Return
-        2 digits floating point number with the calculation
+        String containing the result of the calculation
     """
     result: str
 
