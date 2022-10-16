@@ -12,7 +12,7 @@ Enunciado: Crea una función que calcule el valor del parámetro perdido corresp
 Enviaremos a la función 2 de los 3 parámetros (V, R, I), y retornará el valor del tercero (redondeado a 2 decimales).
 Si los parámetros son incorrectos o insuficientes, la función retornará la cadena de texto "Invalid values".
 
-### *Solucion*
+### [Solucion](https://github.com/davidzaaan/retos_mouredev/blob/main/reto_41.py)
  
 
 ## Reto #40 (Triangulo de Pascal)
