@@ -5,6 +5,15 @@ This is a repository where I upload the challenges posted on the MoureDev page s
 
 # Retos con Python 🐍
 
+## Reto 42 (CONVERSOR DE TEMPERATURA)
+
+### Enunciado
+Enunciado: Crea una función que transforme grados Celsius en Fahrenheit y viceversa. 
+Para que un dato de entrada sea correcto debe poseer un símbolo "°" 
+y su unidad ("C" o "F").
+En caso contrario retornará un error. ¿Quieres emplear lo aprendido en este reto? Revisa el reto mensual y crea una App: https://retosdeprogramacion.com/mensuales2022
+ 
+
 ## Reto #41 (La Ley de Ohm)
 
 ### Enunciado
