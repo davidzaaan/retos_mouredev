@@ -33,4 +33,13 @@ Crea una función que sea capaz de dibujar el "Triángulo de Pascal" indicándol
 Aquí puedes ver rápidamente cómo se calcula el triángulo:
 https://commons.wikimedia.org/wiki/File:PascalTriangleAnimated2.gif
 
-*Pending...*
+## Reto 0
+
+Escribe un programa que muestre por consola (con un print) los 
+números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión),
+sustituyendo los siguientes:
+- Múltiplos de 3 por la palabra "fizz".
+- Múltiplos de 5 por la palabra "buzz".
+- Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
+
+### [Solucion](https://github.com/davidzaaan/retos_mouredev/blob/main/reto_0.py)
